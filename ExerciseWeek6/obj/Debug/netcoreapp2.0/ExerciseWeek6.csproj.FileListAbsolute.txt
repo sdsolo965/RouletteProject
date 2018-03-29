@@ -1,0 +1,22 @@
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.deps.json
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.runtimeconfig.json
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.runtimeconfig.dev.json
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.dll
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.pdb
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.csprojResolveAssemblyReference.cache
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.csproj.CoreCompileInputs.cache
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.AssemblyInfoInputs.cache
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.AssemblyInfo.cs
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.dll
+C:/Users/shanesolomon/Documents/MSSA/Classes/Programming in C#/Exercises/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.pdb
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.deps.json
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.runtimeconfig.json
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.runtimeconfig.dev.json
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.dll
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/bin/Debug/netcoreapp2.0/ExerciseWeek6.pdb
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.csprojResolveAssemblyReference.cache
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.csproj.CoreCompileInputs.cache
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.AssemblyInfoInputs.cache
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.AssemblyInfo.cs
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.dll
+/Users/shanesolomon/Desktop/ExerciseWeek6/ExerciseWeek6/obj/Debug/netcoreapp2.0/ExerciseWeek6.pdb
