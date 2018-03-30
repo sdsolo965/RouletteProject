@@ -1,6 +1,6 @@
 ﻿namespace ExerciseWeek6
 {
-    class player
+    class Player
     {
         
     }

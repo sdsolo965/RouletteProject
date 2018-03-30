@@ -12,17 +12,17 @@ namespace ExerciseWeek6
             if (tableValues.TableNumber == 0 || tableValues.TableNumber == 37)
             {
                 Console.WriteLine($"The winning number is: {tableValues.Name}\n" +
-                                  $"The winning color is: {tableValues.color}\n" +
+                                  $"The winning color is: {tableValues.Color}\n" +
                                   $"Zero and Double Zero do not have any other results.");              
             }
             else
             {
                 Console.WriteLine($"The winning number is: {tableValues.TableNumber}\n" +
-                                  $"The winning parity is: {tableValues.parity}\n" +
-                                  $"The winning color is: {tableValues.color}");
+                                  $"The winning parity is: {tableValues.Parity}\n" +
+                                  $"The winning color is: {tableValues.Color}");
                 GetHighLowResult(tableValues);
                 GetThirdsResult(tableValues);
-                Console.WriteLine($"The winning Single Column bet is: Column {tableValues.Colummn}");
+                Console.WriteLine($"The winning Single Column bet is: Column {tableValues.Column}");
                 Console.WriteLine($"The winning Single Row bet is: Row {tableValues.Row}");
                 GetDoubleRowResult(tableValues);
                 GetCornerResults(tableValues);
@@ -65,7 +65,7 @@ namespace ExerciseWeek6
         private void GetCornerResults(TableValues tableValues)
         {
             int bin = tableValues.TableNumber;
-            int col = tableValues.Colummn;
+            int col = tableValues.Column;
             int row = tableValues.Row;
             Console.WriteLine("Winning corner bets are");
             //  These table values will return 4 winning corner bets
